@@ -6,8 +6,8 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bandit and Reinforcement Learning
+  - Resource Management
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,4 +39,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yinxu Tang is a Computer Science Master candidate in Network Intelligence Center (NICE), [](https://nice.sist.shanghaitech.edu.cn/)School of Information Science and Technology, ShanghaiTech University, Shanghai, China. She received the B.Eng degree from ShanghaiTech University, Shanghai, China. Her current research interests include: bandit and reinforcement learning, resource management.
+Yinxu Tang is a Computer Science Master candidate in Network Intelligence Center (NICE), [](https://nice.sist.shanghaitech.edu.cn/)School of Information Science and Technology, ShanghaiTech University, Shanghai, China. She received the B.Eng degree from ShanghaiTech University, Shanghai, China. Her current research interests include: Artificial Intelligence, Bandit and Reinforcement Learning, and Resource Management.
