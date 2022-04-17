@@ -2,7 +2,8 @@
 title: Yinxu Tang
 role: Master Candidate of ShanghaiTech University, China
 avatar_filename: avatar.png
-bio: ""
+bio: My research interests include Artificial Intelligence, Bandit and
+  Reinforcement Learning, and Resource Management.
 interests:
   - Artificial Intelligence
   - Bandit and Reinforcement Learning
