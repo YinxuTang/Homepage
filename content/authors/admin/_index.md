@@ -29,10 +29,10 @@ organizations:
     url: https://www.shanghaitech.edu.cn/
 education:
   courses:
-    - course: MEng Candidate in Computer Science
+    - course: M.Eng Candidate in Computer Science
       institution: ShanghaiTech University
       year: ""
-    - course: BEng in Computer Science
+    - course: B.Eng in Computer Science
       institution: ShanghaiTech University
       year: ""
 email: ""
