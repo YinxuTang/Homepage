@@ -29,13 +29,10 @@ organizations:
     url: https://www.shanghaitech.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: B.Eng in Computer Science
+    - course: MEng Candidate in Computer Science
+      institution: ShanghaiTech University
+      year: ""
+    - course: BEng in Computer Science
       institution: ShanghaiTech University
       year: ""
 email: ""
