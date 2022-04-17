@@ -1,6 +1,6 @@
 ---
 title: Yinxu Tang
-role: Professor of Artificial Intelligence
+role: Master Candidate of ShanghaiTech University, China
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
