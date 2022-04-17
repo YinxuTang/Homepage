@@ -23,7 +23,7 @@ social:
     link: https://github.com/YinxuTang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yinxu-tang-84a061164/
 organizations:
   - name: ShanghaiTech University
     url: https://www.shanghaitech.edu.cn/
