@@ -35,9 +35,9 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.Eng in Computer Science
+      institution: ShanghaiTech University
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
