@@ -12,9 +12,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:tangyx@shanghaitech.edu.cn
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.instagram.com/Aurora_Danity/
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=T1O533QAAAAJ&hl=zh-CN
