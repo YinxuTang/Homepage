@@ -1,7 +1,7 @@
 ---
 title: Yinxu Tang
 role: Master Candidate of ShanghaiTech University, China
-avatar_filename: avatar.jpg
+avatar_filename: content/authors/admin/avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
