@@ -16,7 +16,7 @@ abstract: Emoji prediction has been widely adopted in most mobile keyboards to
   our proposed scheme in achieving a sublinear regret bound and energy
   efficiency with high accuracy and low latency.
 slides: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9500534"
 publication_types:
   - "1"
 authors:
