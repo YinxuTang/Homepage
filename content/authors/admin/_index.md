@@ -31,10 +31,10 @@ education:
   courses:
     - course: M.Eng Candidate in Computer Science
       institution: ShanghaiTech University
-      year: 2020
+      year: 2021
     - course: B.Eng in Computer Science
       institution: ShanghaiTech University
-      year: 2016
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
