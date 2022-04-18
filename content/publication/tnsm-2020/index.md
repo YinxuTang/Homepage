@@ -10,7 +10,7 @@ authors:
   - Yang Yang
   - Hong Xu
 doi: 10.1109/TNSM.2020.3044674
-publication: In "IEEE Transactions on Network and Service Management"
+publication: In *IEEE Transactions on Network and Service Management*
 publication_short: ""
 abstract: In software-defined networking (SDN) systems, it is a common practice
   to adopt a multi-controller design and control devolution techniques to
