@@ -1,7 +1,6 @@
 ---
 title: "Joint Switch–Controller Association and Control Devolution for SDN
   Systems: An Integrated Online Perspective of Control and Learning"
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9295399
 publication_types:
   - "2"
 authors:
@@ -12,7 +11,7 @@ authors:
   - Hong Xu
 doi: 10.1109/TNSM.2020.3044674
 publication: In "IEEE Transactions on Network and Service Management"
-publication_short: In "IEEE TNSM"
+publication_short: ""
 abstract: In software-defined networking (SDN) systems, it is a common practice
   to adopt a multi-controller design and control devolution techniques to
   improve the performance of the control plane. However, in such systems the
@@ -33,6 +32,7 @@ abstract: In software-defined networking (SDN) systems, it is a common practice
   achieves a tunable tradeoff between queue stability and system cost reduction
   with a sublinear time-averaged regret bound over a finite time horizon.
 draft: false
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9295399
 featured: false
 image:
   filename: ""
