@@ -30,7 +30,7 @@ publication: In *IEEE International Conference on Communications*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICC*
+publication_short: In *Proceedings of ICC*
 url_source: ""
 url_video: ""
 title: Green Edge Intelligence Scheme for Mobile Keyboard Emoji Prediction
