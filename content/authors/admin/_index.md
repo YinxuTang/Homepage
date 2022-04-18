@@ -31,7 +31,7 @@ education:
   courses:
     - course: M.Eng Candidate in Computer Science
       institution: ShanghaiTech University
-      year: 2021
+      year: 2022
     - course: B.Eng in Computer Science
       institution: ShanghaiTech University
       year: 2020
