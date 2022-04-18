@@ -1,5 +1,6 @@
 ---
 title: Learning-Aided Online Task Offloading for UAVs-Aided IoT Systems
+url_pdf:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8891245
 publication_types:
   - "1"
 authors:
