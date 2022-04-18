@@ -1,6 +1,7 @@
 ---
 title: "Joint Switch–Controller Association and Control Devolution for SDN
   Systems: An Integrated Online Perspective of Control and Learning"
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9295399
 publication_types:
   - "2"
 authors:
@@ -37,5 +38,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-04-18T14:03:00.000Z
+date: 2020-12-15T14:03:00.000Z
 ---
