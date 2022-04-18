@@ -15,7 +15,7 @@ abstract: Emoji prediction has been widely adopted in most mobile keyboards to
   Our theoretical analysis and simulation results verify the effectiveness of
   our proposed scheme in achieving a sublinear regret bound and energy
   efficiency with high accuracy and low latency.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -37,8 +37,7 @@ title: Green Edge Intelligence Scheme for Mobile Keyboard Emoji Prediction
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
