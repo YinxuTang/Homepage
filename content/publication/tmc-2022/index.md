@@ -1,5 +1,5 @@
 ---
-title: tmc-2022
+title: Green Edge Intelligence Scheme for Mobile Keyboard Emoji Prediction
 publication_types:
   - "2"
 authors:
