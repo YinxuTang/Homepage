@@ -1,5 +1,6 @@
 ---
 title: Proactive Cache Placement with Bandit Learning in Fog-Assisted IoT Systems
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149047
 publication_types:
   - "1"
 authors:
