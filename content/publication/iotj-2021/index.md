@@ -1,6 +1,7 @@
 ---
 title: "History-Aware Online Cache Placement in Fog-Assisted IoT Systems: An
   Integration of Learning and Control"
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9399666
 publication_types:
   - "2"
 authors:
