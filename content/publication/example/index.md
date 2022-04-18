@@ -34,7 +34,7 @@ publication_short: In *Proceedings of ICC*
 url_source: ""
 url_video: ""
 title: Green Edge Intelligence Scheme for Mobile Keyboard Emoji Prediction
-doi: ""
+doi: "10.1109/ICC42927.2021.9500534"
 featured: true
 tags: []
 projects: []
