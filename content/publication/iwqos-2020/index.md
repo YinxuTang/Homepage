@@ -9,6 +9,7 @@ authors:
   - Yang Yang
   - Hong Xu
 doi: 10.1109/IWQoS49365.2020.9212913
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9212913
 publication: In *IEEE/ACM International Symposium on Quality of Service*
 publication_short: In *Proceedings of IWQoS*
 abstract: >-
