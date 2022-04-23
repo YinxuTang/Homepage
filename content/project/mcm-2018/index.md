@@ -3,8 +3,15 @@ title: " MCM 2018: Energy Production"
 subtitle: "Plan of a New Energy Compact by Energy Profiles: Arizona, California,
   New Mexico, and Texas"
 date: 2018-02-13T13:46:59.518Z
+summary: to cope with
 draft: false
 featured: false
+authors:
+  - admin
+  - Guanzhou Hu
+  - Xinyu Zhang
+tags:
+  - Deep Reinforcement Learning
 image:
   filename: featured
   focal_point: Smart
@@ -26,6 +33,6 @@ According to the approaches above, suggestions such as establishment of platform
 
 
 
-**Key Words**
+#### **Key Words**
 
 clean energy; entropy method; time series forecast; linear programming
