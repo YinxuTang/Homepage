@@ -12,8 +12,11 @@ authors:
   - Xinyu Zhang
 tags:
   - Deep Reinforcement Learning
+links:
+  - url: https://github.com/YinxuTang/Homepage/blob/master/content/project/mcm-2018/MCM%202018.pdf
+    name: PDF
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
