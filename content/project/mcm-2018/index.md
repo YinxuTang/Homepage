@@ -20,7 +20,7 @@ By plotting the evolution of elements in energy profile over time, time series o
 
 It turned out that energy consumption from clean energy matters most in the assessment of energy profile, so we focused on it in the following steps. By two approaches, gray model and BP neural network, predictions on the energy consumption from each clean energy source in each state are made respectively. Results show that the total clean energy consumption reaches 2.19 and 2.45 Million Billion Btu up to 2025 and 2050 respectively, and all four states’ clean energy usage proportion level off to 10%. {{< math >}}$\nabla \eta\_{ij}\sigma\_{ij}${{< /math >}}
 
-{{< math >}}$I =  \alpha \cdot \left(\sum\\\_{i=1}^{4}\eta\\\_{ij}\sigma\\_{ij}\right)${{< /math >}}
+$I =  \alpha \cdot \left(\sum\\\_{i=1}^{4}\eta\\\_{ij}\sigma\\_{ij}\right)$
 
 To set the target of clean energy usage in 2025 and 2050, we first come up with an evaluation index defined as {{< math >}}$I= \alpha \cdot\left(\sum\_{i=1}^{4}\sum\_{j = 1}^{6}\eta\_{ij} \sigma\_{ij}\right)${{/< math >}}, where {{< math >}}$\alpha${{/< math >}} is the *flare factor*; {{< math >}}$\eta_{ij}${{< math >}} is *utilization efficiency*; and {{< math >}}$*\sigma_*{i j}${{< math >}} is the consumption quantity of the {{< math >}}$j${{< math >}}th energy by the $i$th state bounded in a certain range. To optimize the index, we can either promote development of effeciency {{< math >}}$\eta_*{i j}*${{< math >}}, or obtain the best {{< math >}}$*\sigma_*{i j}${{< math >}} distribution through linear programming.
 
