@@ -26,6 +26,6 @@ According to the approaches above, suggestions such as establishment of platform
 
 
 
-#### **Key Words**
+**Key Words**
 
 clean energy; entropy method; time series forecast; linear programming
