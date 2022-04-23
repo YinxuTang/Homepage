@@ -10,7 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## Summary
+## **Summary**
 
 A new energy compact of Arizona, California, New Mexico, and Texas is coming into being, devoted to improving clean energy usage.
 
