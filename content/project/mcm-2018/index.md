@@ -1,5 +1,5 @@
 ---
-title: " MCM 2018"
+title: " MCM 2018: Energy Production"
 subtitle: "Plan of a New Energy Compact by Energy Profiles: Arizona, California,
   New Mexico, and Texas"
 date: 2022-04-23T13:46:59.518Z
