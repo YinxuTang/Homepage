@@ -13,7 +13,7 @@ authors:
 tags:
   - Deep Reinforcement Learning
 links:
-  - url: mcm-2018/MCM 2018.pdf
+  - url: https://drive.google.com/file/d/1jE0P-w7LH-GboTBmVe_zY2K0PuoHQGeQ/view?usp=sharing
     name: PDF
 image:
   filename: featured.png
