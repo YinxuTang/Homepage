@@ -29,7 +29,7 @@ links:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: Relationship Between the Energy Variables
   alt_text: ""
 ---
