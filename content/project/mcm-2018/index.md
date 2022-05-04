@@ -31,6 +31,7 @@ image:
   focal_point: Center
   preview_only: false
   caption: Relationship between the energy variables
+  alt_text: Relationship between the energy variables
 ---
 ## **Summary**
 
