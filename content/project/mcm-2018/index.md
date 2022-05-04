@@ -3,7 +3,18 @@ title: " MCM 2018: Energy Production Plan"
 subtitle: "A New Energy Compact by Energy Profiles: Arizona, California, New
   Mexico, and Texas"
 date: 2018-02-13T13:46:59.518Z
-summary: to cope with
+summary: >-
+  * Perform data analysis and modeling to determine the best energy profile and
+  predict the energy profile
+
+    * Utilize ***Entropy Weight Method (EWM)*** to assess the energy profile and determine the best energy profile
+    * Apply two ***Time Series Forecasting Analysis (TSFA)*** methods *to* predict the energy profile
+
+      * ***Gray Model: GM (1,1)***
+      * ***Back Propagation Neural Network*** with 10 hidden layers
+  * Transform the compact goals to the optimization targets
+
+    * Adopt ***Multivariate Linear Regression*** to solve the optimization problem
 draft: false
 featured: false
 authors:
