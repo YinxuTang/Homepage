@@ -15,8 +15,8 @@ summary: >-
   * Transform the compact goals to the optimization targets
 
     * Adopt ***Multivariate Linear Regression*** to solve the optimization problem
-draft: false
-featured: false
+draft: true
+featured: true
 authors:
   - admin
   - Guanzhou Hu
