@@ -3,10 +3,6 @@ title: " MCM 2018: Energy Production"
 subtitle: "Plan of A New Energy Compact by Energy Profiles: Arizona, California,
   New Mexico, and Texas"
 date: 2018-02-13T13:46:59.518Z
-authors:
-  - admin
-  - Guanzhou Hu
-  - Xinyu Zhang
 summary: >-
   * Perform data analysis and modeling to determine the best energy profile and
   predict the energy profile
@@ -21,6 +17,10 @@ summary: >-
     * Adopt ***Multivariate Linear Regression*** to solve the optimization problem
 draft: false
 featured: false
+authors:
+  - admin
+  - Guanzhou Hu
+  - Xinyu Zhang
 tags:
   - Deep Reinforcement Learning
 links:
@@ -28,8 +28,9 @@ links:
     name: PDF
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
+  caption: Relationship between the energy variables
 ---
 ## **Summary**
 
