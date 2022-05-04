@@ -28,7 +28,7 @@ links:
     name: PDF
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
 ---
 ## **Summary**
