@@ -28,7 +28,7 @@ links:
     name: PDF
 image:
   filename: featured.jpg
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
   caption: Relationship between the energy variables
   alt_text: Relationship between the energy variables
