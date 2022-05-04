@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Competition
+    tag: Competition
   - name: Deep Reinforcement Learning
     tag: Deep Reinforcement Learning
   - name: Other
