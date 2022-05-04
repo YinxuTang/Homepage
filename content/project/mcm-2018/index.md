@@ -15,14 +15,14 @@ summary: >-
   * Transform the compact goals to the optimization targets
 
     * Adopt ***Multivariate Linear Regression*** to solve the optimization problem
-draft: true
-featured: true
+draft: false
+featured: false
 authors:
   - admin
   - Guanzhou Hu
   - Xinyu Zhang
 tags:
-  - Deep Reinforcement Learning
+  - Competition
 links:
   - url: https://drive.google.com/file/d/1jE0P-w7LH-GboTBmVe_zY2K0PuoHQGeQ/view?usp=sharing
     name: PDF
@@ -30,8 +30,8 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: Relationship between the energy variables
-  alt_text: Relationship between the energy variables
+  caption: Relationship Between the Energy Variables
+  alt_text: ""
 ---
 ## **Summary**
 
