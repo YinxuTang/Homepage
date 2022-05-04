@@ -1,7 +1,7 @@
 ---
-title: " MCM 2018: Energy Production Plan"
-subtitle: "A New Energy Compact by Energy Profiles: Arizona, California, New
-  Mexico, and Texas"
+title: " MCM 2018: Energy Production"
+subtitle: "Plan of A New Energy Compact by Energy Profiles: Arizona, California,
+  New Mexico, and Texas"
 date: 2018-02-13T13:46:59.518Z
 summary: >-
   * Perform data analysis and modeling to determine the best energy profile and
