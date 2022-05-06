@@ -2,6 +2,7 @@
 title: Reverse Engineering Algorithmic Mechanism Behind WeChat Red Envelope
 subtitle: ""
 date: 2018-01-20T09:43:04.060Z
+summary: "* Conduct a large number of experiments"
 draft: false
 featured: false
 authors:
