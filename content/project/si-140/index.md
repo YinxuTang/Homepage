@@ -5,7 +5,8 @@ date: 2018-01-20T09:43:04.060Z
 draft: false
 featured: false
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: WeChat Red Envelope
 ---
