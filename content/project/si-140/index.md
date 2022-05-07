@@ -2,7 +2,17 @@
 title: Reverse Engineering Algorithmic Mechanism Behind WeChat Red Envelope
 subtitle: ""
 date: 2018-01-20T09:43:04.060Z
-summary: "* Conduct a large number of experiments"
+summary: >-
+  * Conduct a large number of experiments to explore the relationship between
+  the time of opening the red envelope and the amount of received money
+
+  * Make two modeling assumptions
+
+    * The interval time v.s. The amount of the money ⇒ ***No relationship***
+    * The opening order v.s. The amount of the money
+
+      * Each order: The distribution of the amount of the money satisfy ***skew distribution***
+      * Each order: The conditional distribution of the amount of the money satisfy ***uniform distribution***
 draft: false
 featured: false
 authors:
