@@ -8,11 +8,11 @@ summary: >-
 
   * Make two modeling assumptions
 
-    * The interval time v.s. The amount of the money ⇒ ***No relationship***
-    * The opening order v.s. The amount of the money
+    * The interval time v.s. The amount of money ⇒ ***No relationship***
+    * The opening order v.s. The amount of money
 
-      * Each order: The distribution of the amount of the money satisfy ***skew distribution***
-      * Each order: The conditional distribution of the amount of the money satisfy ***uniform distribution***
+      * Each order: The distribution of the amount of money satisfy ***skew distribution***
+      * Each order: The conditional distribution of the amount of money satisfy ***uniform distribution***
 draft: false
 featured: false
 authors:
