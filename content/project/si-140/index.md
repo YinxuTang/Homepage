@@ -26,3 +26,9 @@ image:
 ## Summary
 
 The prevalence of the online WeChat red packet has raised an attractive question of how to be the luckiest person (*i.e.*, get the most money). In this way, more and more people study which factors would affect the amount of money when opening the red packet. In this report, we focus on the relationship between the time to open the red packet and the amount of money. Specifically, we explore two factors of time, including interval time and order. Our experiments result show that only for each order,  the distribution and the conditional distribution of the amount of the money are closely to ***skew distribution*** and ***uniform distribution***, respectively. Moreover, our results also show that if you want to get more money you should take on some risks of getting less money at the same time.
+
+
+
+## Key Words
+
+WeChat red packet, expectation, variance, skew distribution, uniform distribution
