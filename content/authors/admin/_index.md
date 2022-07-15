@@ -3,7 +3,7 @@ title: Yinxu Tang
 role: Master Candidate of ShanghaiTech University, China
 avatar_filename: avatar.png
 bio: My research interests include Artificial Intelligence, Bandit and
-  Reinforcement Learning, and Resource Management.
+  Reinforcement Learning, and Multi-agent Algorithms.
 interests:
   - Artificial Intelligence
   - Bandit and Reinforcement Learning
@@ -39,4 +39,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yinxu Tang is a Computer Science Master candidate in Network Intelligence Center (NICE), [](https://nice.sist.shanghaitech.edu.cn/)School of Information Science and Technology, ShanghaiTech University, Shanghai, China. She received the B.Eng degree from ShanghaiTech University, Shanghai, China. Her current research interests include: Artificial Intelligence, Bandit and Reinforcement Learning, and Resource Management.
+Yinxu Tang is a Computer Science Master candidate in Network Intelligence Center (NICE), [](https://nice.sist.shanghaitech.edu.cn/)School of Information Science and Technology, ShanghaiTech University, Shanghai, China. She received the B.Eng degree from ShanghaiTech University, Shanghai, China. Her current research interests include: Artificial Intelligence, Bandit and Reinforcement Learning, and Multi-agent Algorithms.
