@@ -11,8 +11,8 @@ main:
     url: '#featured'
     weight: 20
   - name: CV
-     url: uploads/CV_TANG_updated.pdf
-     weight: 70
+    url: uploads/CV_TANG_updated.pdf
+    weight: 70
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
