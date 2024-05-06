@@ -1,20 +1,20 @@
 ---
 title: Yinxu Tang
-role: Master Candidate of ShanghaiTech University, China
+role: PhD Student at Washington University in St. Louis, USA
 avatar_filename: avatar.png
-bio: My research interests include Artificial Intelligence, Bandit and
-  Reinforcement Learning, and Multi-agent Systems.
+bio: My research interests include Explainable Planning and Scheduling, Artificial Intelligence, Bandit and
+  Reinforcement Learning.
 interests:
+  - Explainable Planning and Scheduling
   - Artificial Intelligence
   - Bandit and Reinforcement Learning
-  - Resource Management
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:tangyx@shanghaitech.edu.cn
+    link: mailto:t.yinxu@wustl.edu
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/Aurora_Danity/
+    link: https://www.instagram.com/yinxu_tang/
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=T1O533QAAAAJ&hl=zh-CN
@@ -25,13 +25,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/yinxu-tang-84a061164/
 organizations:
-  - name: ShanghaiTech University
-    url: https://www.shanghaitech.edu.cn/
+  - name: Washington University in St. Louis
+    url: https://wustl.edu/
 education:
   courses:
-    - course: M.Eng Candidate in Computer Science
+    - course: PhD Student in Computer Science
+      institution: Washington University in St. Louis
+      year: Present
+    - course: M.Eng in Information and Communication Engineering
       institution: ShanghaiTech University
-      year: 2022
+      year: 2023
     - course: B.Eng in Computer Science
       institution: ShanghaiTech University
       year: 2020
@@ -39,4 +42,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yinxu Tang is a Computer Science Master candidate in Network Intelligence Center (NICE), [](https://nice.sist.shanghaitech.edu.cn/)School of Information Science and Technology, ShanghaiTech University, Shanghai, China. She received the B.Eng degree from ShanghaiTech University, Shanghai, China. Her current research interests include: Artificial Intelligence, Bandit and Reinforcement Learning, and Multi-agent Systems.
+Yinxu Tang is a PhD Student in Computer Science in Yeoh’s Optimization and Decision Analytics (YODA) Lab at Washington University in St. Louis, MO, USA. She received M.Eng and B.Eng degrees from ShanghaiTech University, Shanghai, China. Her current research interests include: Explainable Planning and Scheduling, Artificial Intelligence, Bandit and Reinforcement Learning.
