@@ -1,11 +1,11 @@
 ---
 title: Yinxu Tang
-role: PhD Student at Washington University in St. Louis, USA
+role: PhD Candidate at Washington University in St. Louis, USA
 avatar_filename: avatar.png
-bio: My research interests include Explainable Planning and Scheduling, Artificial Intelligence, Bandit and
+bio: My research interests include Explainable AI, Artificial Intelligence, Bandits and
   Reinforcement Learning.
 interests:
-  - Explainable Planning and Scheduling
+  - Explainable AI
   - Artificial Intelligence
   - Bandit and Reinforcement Learning
 social:
@@ -17,7 +17,7 @@ social:
     link: https://www.instagram.com/yinxu_tang/
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=T1O533QAAAAJ&hl=zh-CN
+    link: https://scholar.google.com/citations?user=T1O533QAAAAJ&hl=zh-EN
   - icon: github
     icon_pack: fab
     link: https://github.com/YinxuTang
@@ -29,7 +29,7 @@ organizations:
     url: https://wustl.edu/
 education:
   courses:
-    - course: PhD Student in Computer Science
+    - course: PhD in Computer Science
       institution: Washington University in St. Louis
       year: Present
     - course: M.Eng in Information and Communication Engineering
@@ -42,4 +42,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yinxu Tang is a PhD Student in Computer Science in Yeoh’s Optimization and Decision Analytics (YODA) Lab at Washington University in St. Louis, MO, USA. She received M.Eng and B.Eng degrees from ShanghaiTech University, Shanghai, China. Her current research interests include: Explainable Planning and Scheduling, Artificial Intelligence, Bandit and Reinforcement Learning.
+Yinxu Tang is a PhD Candidate in Computer Science in Yeoh’s Optimization and Decision Analytics (YODA) Lab at Washington University in St. Louis, MO, USA. She received M.Eng and B.Eng degrees from ShanghaiTech University, Shanghai, China. Her current research interests include: Explainable AI, Artificial Intelligence, Bandits and Reinforcement Learning.
