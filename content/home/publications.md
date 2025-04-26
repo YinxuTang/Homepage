@@ -1,9 +1,9 @@
 ---
 widget: pages
-active: false
+active: true
 widget_id: Publications
 weight: 40
-title: Recent Publications
+title: Publications
 subtitle: ""
 content:
   filters:
