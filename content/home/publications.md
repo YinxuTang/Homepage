@@ -1,5 +1,6 @@
 ---
 widget: pages
+active: false
 widget_id: Recent Publications
 weight: 40
 title: Recent Publications
