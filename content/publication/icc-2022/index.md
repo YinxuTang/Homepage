@@ -2,12 +2,14 @@
 title: Learning-Aided Stable Matching for Switch-Controller Association in SDN Systems
 publication_types:
   - "1"
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9839050
 authors:
   - admin
   - Tao Huang
   - Xi Huang
   - Ziyu Shao
   - Yang Yang
+doi: 10.1109/ICC45855.2022.9839050
 publication: In *IEEE International Conference on Communications*
 publication_short: In *Proceedings of ICC*
 abstract: The scheme design of switch-controller association is an essential
@@ -26,7 +28,7 @@ abstract: The scheme design of switch-controller association is an essential
   conduct numerical simulations to verify the outperformance of LS2M over
   various baseline schemes.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: ""
