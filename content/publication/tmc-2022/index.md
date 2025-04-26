@@ -11,6 +11,7 @@ authors:
 author_notes:
   - Equal Contribution
   - Equal Contribution
+doi: 10.1109/TMC.2023.3243955
 publication: In *IEEE Transactions on Mobile Computing*
 abstract: >
   Emoji prediction has been widely adopted in most mobile keyboards to improve
@@ -35,5 +36,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-04-18T14:49:41.185Z
+date: 2024-04-18T14:49:41.185Z
 ---
