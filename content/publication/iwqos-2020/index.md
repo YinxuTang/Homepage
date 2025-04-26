@@ -33,7 +33,7 @@ abstract: In software-defined networking (SDN) systems, it is a common practice
   tradeoff between queue stability and system cost reduction with a sublinear
   regret bound over a finite time horizon.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: ""
