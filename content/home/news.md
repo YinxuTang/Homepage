@@ -5,7 +5,7 @@ weight: 30
 title: Recent News
 subtitle:
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 Here are the latest updates:
