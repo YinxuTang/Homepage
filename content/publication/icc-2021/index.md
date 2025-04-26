@@ -35,7 +35,7 @@ url_source: ""
 url_video: ""
 title: Green Edge Intelligence Scheme for Mobile Keyboard Emoji Prediction
 doi: 10.1109/ICC42927.2021.9500534
-featured: true
+featured: false
 tags: []
 projects: []
 image:
