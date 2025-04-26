@@ -13,9 +13,9 @@ main:
   - name: CV
     url: uploads/CV_TANG.pdf
     weight: 30
-  - name: Courses
-    url: courses/
-    weight: 60
+  # - name: Courses
+  #   url: courses/
+  #   weight: 60
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
