@@ -8,8 +8,5 @@ design:
   columns: '2'
 ---
 
-Here are the latest updates:
-
-- 📢 We launched a new project on Explainable AI!
-- 🏆 Our team won the Best Paper Award at XYZ Conference.
-- ✨ A new blog post on human-centered AI is now online.
+- 🎉 [Apr 2025] Successfully passed the qualification exam!
+- 📝 [Dec 2024] One paper on [learning user models in argumentation dialogues]([https://your-link-here.com](https://yeoh-lab.wustl.edu/assets/pdf/aaai-TangV025.pdf)) was accepted at AAAI 2025 and selected for an oral presentation.
