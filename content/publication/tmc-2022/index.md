@@ -2,6 +2,7 @@
 title: Green Edge Intelligence Scheme for Mobile Keyboard Emoji Prediction
 publication_types:
   - "2"
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10042022
 authors:
   - admin
   - Jianfeng Hou
@@ -31,7 +32,7 @@ abstract: >
   round-averaged regret bound and energy efficiency with a high prediction
   accuracy and a low latency.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: ""
