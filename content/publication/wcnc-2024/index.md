@@ -1,5 +1,5 @@
 ---
-title: Privacy-Preserving Edge Intelligence: A Perspective of Constrained Bandits
+title: "Privacy-Preserving Edge Intelligence: A Perspective of Constrained Bandits"
 publication_types:
   - "1"
 authors:
