@@ -3,7 +3,6 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
-  - title: Hello
   - certificate_url: https://www.edx.org
     date_end: ""
     date_start: 2021-01-01
