@@ -2,11 +2,11 @@
 title: Yinxu Tang
 role: PhD Candidate at Washington University in St. Louis, USA
 avatar_filename: avatar.png
-bio: My research interests include Explainable AI, Artificial Intelligence, Bandits and
+bio: My research interests include Human-AI Interaction/Collaboration, LLM/VLM Reasoning, Bandits and
   Reinforcement Learning.
 interests:
-  - Explainable AI
-  - Artificial Intelligence
+  - Human-AI Interaction/Collaboration
+  - LLM/VLM Reasoning
   - Bandit and Reinforcement Learning
 social:
   - icon: envelope
@@ -42,4 +42,5 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yinxu Tang is a PhD Candidate in Computer Science in Yeoh’s Optimization and Decision Analytics (YODA) Lab at Washington University in St. Louis, MO, USA. She received M.Eng and B.Eng degrees from ShanghaiTech University, Shanghai, China. Her current research interests include: Explainable AI, Artificial Intelligence, Bandits and Reinforcement Learning.
+Yinxu Tang is a PhD Candidate in Computer Science in Yeoh’s Optimization and Decision Analytics (YODA) Lab at Washington University in St. Louis, MO, USA. She received M.Eng and B.Eng degrees from ShanghaiTech University, Shanghai, China. Her current research interests include: Human-AI Interaction/Collaboration, LLM/VLM Reasoning, Bandits and
+  Reinforcement Learning.
