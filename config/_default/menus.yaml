@@ -11,7 +11,7 @@ main:
     url: '#publications'
     weight: 20
   - name: CV
-    url: uploads/Resume(2).pdf
+    url: uploads/CV_TANG.pdf
     weight: 30
   # - name: Courses
   #   url: courses/
