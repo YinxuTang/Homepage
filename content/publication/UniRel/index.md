@@ -28,15 +28,6 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: https://arxiv.org/pdf/2512.17043
-url_code: ''
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 ---
