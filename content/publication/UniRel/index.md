@@ -25,7 +25,7 @@ abstract:  Knowledge Graph Question Answering (KGQA) has largely focused on enti
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 url_pdf: https://arxiv.org/pdf/2512.17043
