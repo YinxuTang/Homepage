@@ -1,5 +1,5 @@
 ---
-title: UniRel: Relation-Centric Knowledge Graph Question Answering with RL-Tuned LLM Reasoning
+title: "UniRel: Relation-Centric Knowledge Graph Question Answering with RL-Tuned LLM Reasoning"
 authors:
 - admin
 - Chengsong Huang
